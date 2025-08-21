@@ -62,4 +62,4 @@
 
 ---
 
-<img align="right" alt="Coding Girl" width="300" src="https://media.giphy.com/media/LEh0nM3r5oVbO/giphy.gif">  
+<img align="right" alt="Coding Girl" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWdna3ByamU1dHoyOXJjeDhhNTFuMmowMDZtM3lnenk4a2hyemx5ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">  
